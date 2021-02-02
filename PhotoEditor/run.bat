@@ -1,0 +1,1 @@
+START %CD%/bin/debug/PhotoEditor.exe
